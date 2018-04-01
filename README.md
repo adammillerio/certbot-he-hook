@@ -13,7 +13,8 @@ Python 3: `pip3 install beautifulsoup4`
 # Configuration
 
 In order to use this hook, the following values must be provided:
-| Name  | Description  |
+
+| Name  | Description |
 |---|---|
 | HE_USERNAME | Username used to authenticate with HE |
 | HE_PASSWORD | Password used to authenticate with HE |
